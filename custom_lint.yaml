@@ -1,0 +1,8 @@
+custom_lint:
+  rules:
+    # Riverpod lints
+    - riverpod_final_provider
+    - riverpod_missing_consumer_builder
+    - riverpod_non_primary_state
+    - riverpod_notifier_interface_incompatibility
+    - riverpod_override_depends_on
