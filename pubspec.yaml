@@ -15,6 +15,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_riverpod: ^3.0.0-dev.17
   riverpod_annotation: ^3.0.0-dev.17
+  envied: ^1.2.0
 
 dev_dependencies:
   flutter_test:
@@ -25,6 +26,7 @@ dev_dependencies:
   riverpod_lint: ^3.0.0-dev.17
   riverpod_generator: ^3.0.0-dev.17
   build_runner: ^2.5.4
+  envied_generator: ^1.2.0
 
 flutter:
   uses-material-design: true

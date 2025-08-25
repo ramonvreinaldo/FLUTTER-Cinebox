@@ -1,3 +1,4 @@
+import 'package:cinebox/config/env.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -14,7 +15,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen> {
     return const Scaffold(
       body: Center(
         child: Text(
-          'Welcome to CineBox',
+          Env.backApiUrl,
         ),
       ),
     );
