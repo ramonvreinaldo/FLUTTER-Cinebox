@@ -13,6 +13,7 @@
         "flutter",
         "flutter_riverpod",
         "json_annotation",
+        "loading_animation_widget",
         "logger",
         "retrofit",
         "riverpod_annotation"
@@ -187,6 +188,13 @@
         "stream_channel",
         "test_api",
         "vector_math"
+      ]
+    },
+    {
+      "name": "loading_animation_widget",
+      "version": "1.3.0",
+      "dependencies": [
+        "flutter"
       ]
     },
     {

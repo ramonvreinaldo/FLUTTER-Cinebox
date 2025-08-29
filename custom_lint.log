@@ -322,3 +322,307 @@ at:
 [custom_lint client] 2025-08-29T06:38:05.983412 #41     ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
 [custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
 [custom_lint client] 2025-08-29T06:38:05.983412
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+The request analysis.updateContent failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+A request threw the exception:Invalid overlay change: no content to change
+null
+at:
+#0      SocketCustomLintServerToClientChannel.sendCustomLintRequest (package:custom_lint/src/v2/server_to_client_channel.dart:273)
+<asynchronous suspension>
+#1      SocketCustomLintServerToClientChannel.sendAnalyzerPluginRequest (package:custom_lint/src/v2/server_to_client_channel.dart:234)
+<asynchronous suspension>
+#2      CustomLintServer._handleRequest.<anonymous closure>.<anonymous closure> (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:192)
+<asynchronous suspension>
+#3      PendingOperation.run (package:custom_lint/src/async_operation.dart:22)
+<asynchronous suspension>
+#4      CustomLintServer._handleRequest (package:custom_lint/src/v2/custom_lint_analyzer_plugin.dart:175)
+<asynchronous suspension>
+
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 Plugin async_value_nullable_pattern threw while analyzing /Volumes/ssd/DEV/PROJECTS/DEMO/cinebox/lib/ui/splash/splash_screen.dart:
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 Null check operator used on a null value
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #0      ErrorVerifier._checkForMixinWithConflictingPrivateMember (package:analyzer/src/generated/error_verifier.dart:4257:52)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #1      ErrorVerifier._checkClassInheritance (package:analyzer/src/generated/error_verifier.dart:1570:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #2      ErrorVerifier.visitClassDeclaration (package:analyzer/src/generated/error_verifier.dart:463:26)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #3      ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #4      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #5      CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #6      RecursiveAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:964:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #7      ErrorVerifier.visitCompilationUnit (package:analyzer/src/generated/error_verifier.dart:548:11)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #8      CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #9      LibraryAnalyzer._computeVerifyErrors (package:analyzer/src/dart/analysis/library_analyzer.dart:485:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #10     LibraryAnalyzer._computeDiagnostics (package:analyzer/src/dart/analysis/library_analyzer.dart:328:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #11     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:126:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #12     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #13     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:125:17)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #14     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #15     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #16     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #17     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #18     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #19     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #20     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #21     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #22     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 #23     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-29T08:46:25.768860
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 Plugin async_value_nullable_pattern threw while analyzing /Volumes/ssd/DEV/PROJECTS/DEMO/cinebox/lib/ui/splash/splash_screen.dart:
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 Null check operator used on a null value
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #0      ErrorVerifier._checkForMixinWithConflictingPrivateMember (package:analyzer/src/generated/error_verifier.dart:4257:52)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #1      ErrorVerifier._checkClassInheritance (package:analyzer/src/generated/error_verifier.dart:1570:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #2      ErrorVerifier.visitClassDeclaration (package:analyzer/src/generated/error_verifier.dart:463:26)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #3      ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #4      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #5      CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #6      RecursiveAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:964:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #7      ErrorVerifier.visitCompilationUnit (package:analyzer/src/generated/error_verifier.dart:548:11)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #8      CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #9      LibraryAnalyzer._computeVerifyErrors (package:analyzer/src/dart/analysis/library_analyzer.dart:485:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #10     LibraryAnalyzer._computeDiagnostics (package:analyzer/src/dart/analysis/library_analyzer.dart:328:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #11     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:126:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #12     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #13     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:125:17)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #14     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #15     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #16     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #17     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #18     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #19     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #20     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #21     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #22     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 #23     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-29T08:46:25.770204
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 Plugin async_value_nullable_pattern threw while analyzing /Volumes/ssd/DEV/PROJECTS/DEMO/cinebox/lib/ui/splash/splash_screen.dart:
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 Null check operator used on a null value
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #0      ErrorVerifier._checkForMixinWithConflictingPrivateMember (package:analyzer/src/generated/error_verifier.dart:4257:52)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #1      ErrorVerifier._checkClassInheritance (package:analyzer/src/generated/error_verifier.dart:1570:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #2      ErrorVerifier.visitClassDeclaration (package:analyzer/src/generated/error_verifier.dart:463:26)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #3      ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #4      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #5      CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #6      RecursiveAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:964:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #7      ErrorVerifier.visitCompilationUnit (package:analyzer/src/generated/error_verifier.dart:548:11)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #8      CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #9      LibraryAnalyzer._computeVerifyErrors (package:analyzer/src/dart/analysis/library_analyzer.dart:485:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #10     LibraryAnalyzer._computeDiagnostics (package:analyzer/src/dart/analysis/library_analyzer.dart:328:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #11     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:126:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #12     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #13     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:125:17)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #14     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #15     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #16     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #17     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #18     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #19     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #20     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #21     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #22     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 #23     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-29T08:46:26.584904
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 Plugin async_value_nullable_pattern threw while analyzing /Volumes/ssd/DEV/PROJECTS/DEMO/cinebox/lib/ui/splash/splash_screen.dart:
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 Null check operator used on a null value
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #0      ErrorVerifier._checkForMixinWithConflictingPrivateMember (package:analyzer/src/generated/error_verifier.dart:4257:52)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #1      ErrorVerifier._checkClassInheritance (package:analyzer/src/generated/error_verifier.dart:1570:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #2      ErrorVerifier.visitClassDeclaration (package:analyzer/src/generated/error_verifier.dart:463:26)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #3      ClassDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:2937:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #4      NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #5      CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #6      RecursiveAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:964:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #7      ErrorVerifier.visitCompilationUnit (package:analyzer/src/generated/error_verifier.dart:548:11)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #8      CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #9      LibraryAnalyzer._computeVerifyErrors (package:analyzer/src/dart/analysis/library_analyzer.dart:485:10)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #10     LibraryAnalyzer._computeDiagnostics (package:analyzer/src/dart/analysis/library_analyzer.dart:328:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #11     LibraryAnalyzer.analyze.<anonymous closure> (package:analyzer/src/dart/analysis/library_analyzer.dart:126:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #12     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #13     LibraryAnalyzer.analyze (package:analyzer/src/dart/analysis/library_analyzer.dart:125:17)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #14     AnalysisDriver._analyzeFileImpl.<anonymous closure>.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1417:13)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #15     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #16     AnalysisDriver._analyzeFileImpl.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1406:35)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #17     PerformanceLog.run (package:analyzer/src/dart/analysis/performance_logger.dart:38:15)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #18     AnalysisDriver._analyzeFileImpl (package:analyzer/src/dart/analysis/driver.dart:1348:20)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #19     AnalysisDriver._analyzeFile.<anonymous closure> (package:analyzer/src/dart/analysis/driver.dart:1325:9)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #20     OperationPerformanceImpl.run (package:analyzer/src/util/performance/operation_performance.dart:155:23)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #21     AnalysisDriver._analyzeFile (package:analyzer/src/dart/analysis/driver.dart:1322:38)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #22     AnalysisDriver.performWork (package:analyzer/src/dart/analysis/driver.dart:1217:7)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 #23     AnalysisDriverScheduler._run (package:analyzer/src/dart/analysis/driver.dart:2659:24)
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436 <asynchronous suspension>
+[async_value_nullable_pattern] 2025-08-29T08:46:26.585436

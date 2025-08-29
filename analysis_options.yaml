@@ -18,6 +18,7 @@ analyzer:
     - "**/*.g.dart"
 
 formatter:
+  page_width: 120
   trailing_commas: preserve
 
 linter:
