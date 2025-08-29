@@ -1,3 +1,11 @@
+# Files:
+.env
 
-# FVM Version Cache
+# FVM Version Cache:
 .fvm/
+
+#Folders:
+.dart_tool/
+android/
+build/
+test/

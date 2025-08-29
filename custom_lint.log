@@ -1,0 +1,324 @@
+[custom_lint] 2025-08-24T15:39:53.605919 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:39:53.605919 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:39:53.605919
+[custom_lint] 2025-08-24T15:39:53.605919
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:40:03.835603 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:40:03.835603 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:40:03.835603
+[custom_lint] 2025-08-24T15:40:03.835603
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:41:14.147939 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:41:14.147939 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:41:14.147939
+[custom_lint] 2025-08-24T15:41:14.147939
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:41:19.289404 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:41:19.289404 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:41:19.289404
+[custom_lint] 2025-08-24T15:41:19.289404
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:43:29.129160 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:43:29.129160 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:43:29.129160
+[custom_lint] 2025-08-24T15:43:29.129160
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:43:34.448034 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:43:34.448034 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:43:34.448034
+[custom_lint] 2025-08-24T15:43:34.448034
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:231)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:43:46.299449 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:43:46.299449 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:43:46.299449
+[custom_lint] 2025-08-24T15:43:46.299449
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:223)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint] 2025-08-24T15:44:21.064634 Loading dynamic library failed: not a Mach-O shared object
+[custom_lint] 2025-08-24T15:44:21.064634 lib/custom_lint_client.dart is not an AOT snapshot, it cannot be run with 'dartaotruntime'
+[custom_lint] 2025-08-24T15:44:21.064634
+[custom_lint] 2025-08-24T15:44:21.064634
+Failed to start pluginsThe request analysis.setContextRoots failed with the following error:
+RequestErrorCode.PLUGIN_ERROR
+Bad state: Failed to start the plugins.
+at:
+#0      SocketCustomLintServerToClientChannel._checkInitializationFail.<anonymous closure> (package:custom_lint/src/v2/server_to_client_channel.dart:223)
+<asynchronous suspension>
+#1      Future.any.onValue (dart:async/future.dart:616)
+<asynchronous suspension>
+
+[custom_lint client] 2025-08-29T06:38:04.188482 Null check operator used on a null value
+[custom_lint client] 2025-08-29T06:38:04.188482 #0      RiverpodAnnotationElement._parse.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:133:43)
+[custom_lint client] 2025-08-29T06:38:04.188482 #1      _Cache.call (package:riverpod_analyzer_utils/src/nodes.dart:69:27)
+[custom_lint client] 2025-08-29T06:38:04.188482 #2      RiverpodAnnotationElement._parse (package:riverpod_analyzer_utils/src/nodes/annotation.dart:104:18)
+[custom_lint client] 2025-08-29T06:38:04.188482 #3      RiverpodAnnotatedAnnotatedNodeX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:39:37)
+[custom_lint client] 2025-08-29T06:38:04.188482 #4      ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:04.188482 #5      RiverpodAnnotatedAnnotatedNodeX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:34:19)
+[custom_lint client] 2025-08-29T06:38:04.188482 #6      RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure>.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:36)
+[custom_lint client] 2025-08-29T06:38:04.188482 #7      MappedListIterable.elementAt (dart:_internal/iterable.dart:442:31)
+[custom_lint client] 2025-08-29T06:38:04.188482 #8      ListIterator.moveNext (dart:_internal/iterable.dart:371:26)
+[custom_lint client] 2025-08-29T06:38:04.188482 #9      NonNullsIterator.moveNext (dart:_internal/iterable.dart:943:20)
+[custom_lint client] 2025-08-29T06:38:04.188482 #10     IterableExtension.firstOrNull (package:collection/src/iterable_extensions.dart:275:18)
+[custom_lint client] 2025-08-29T06:38:04.188482 #11     RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:55)
+[custom_lint client] 2025-08-29T06:38:04.188482 #12     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:04.188482 #13     RiverpodAnnotatedAnnotatedNodeOfX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:7:19)
+[custom_lint client] 2025-08-29T06:38:04.188482 #14     FunctionalProviderDeclarationX.provider.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:12:29)
+[custom_lint client] 2025-08-29T06:38:04.188482 #15     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:04.188482 #16     FunctionalProviderDeclarationX.provider (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:8:19)
+[custom_lint client] 2025-08-29T06:38:04.188482 #17     RecursiveRiverpodAstVisitor.visitFunctionDeclaration (package:riverpod_analyzer_utils/src/nodes.g.dart:102:14)
+[custom_lint client] 2025-08-29T06:38:04.188482 #18     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8638:50)
+[custom_lint client] 2025-08-29T06:38:04.188482 #19     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[custom_lint client] 2025-08-29T06:38:04.188482 #20     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[custom_lint client] 2025-08-29T06:38:04.188482 #21     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:550:10)
+[custom_lint client] 2025-08-29T06:38:04.188482 #22     RecursiveRiverpodAstVisitor.visitNode (package:riverpod_analyzer_utils/src/nodes.g.dart:62:11)
+[custom_lint client] 2025-08-29T06:38:04.188482 #23     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:223:52)
+[custom_lint client] 2025-08-29T06:38:04.188482 #24     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[custom_lint client] 2025-08-29T06:38:04.188482 #25     RiverpodAstRegistry.run (package:riverpod_analyzer_utils/src/nodes.g.dart:742:12)
+[custom_lint client] 2025-08-29T06:38:04.188482 #26     _ParseRiverpod._setupRiverpod.<anonymous closure> (package:riverpod_lint/src/riverpod_custom_lint.dart:91:47)
+[custom_lint client] 2025-08-29T06:38:04.188482 #27     _rootRun (dart:async/zone.dart:1525:13)
+[custom_lint client] 2025-08-29T06:38:04.188482 #28     _CustomZone.run (dart:async/zone.dart:1422:19)
+[custom_lint client] 2025-08-29T06:38:04.188482 #29     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1345:23)
+[custom_lint client] 2025-08-29T06:38:04.188482 #30     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[custom_lint client] 2025-08-29T06:38:04.188482 #31     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:967:7)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #32     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:1094:14)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #33     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:931:5)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #34     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:9)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #35     ServerPlugin.handleAffectedFiles (package:analyzer_plugin/plugin/plugin.dart:212:5)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #36     ServerPlugin.contentChanged.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:142:9)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #37     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:508:9)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #38     ServerPlugin.contentChanged (package:analyzer_plugin/plugin/plugin.dart:137:7)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #39     ServerPlugin.handleAnalysisUpdateContent (package:analyzer_plugin/plugin/plugin.dart:351:5)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #40     ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:546:18)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482 #41     ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+[custom_lint client] 2025-08-29T06:38:04.188482 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:04.188482
+[custom_lint client] 2025-08-29T06:38:05.484091 Null check operator used on a null value
+[custom_lint client] 2025-08-29T06:38:05.484091 #0      RiverpodAnnotationElement._parse.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:133:43)
+[custom_lint client] 2025-08-29T06:38:05.484091 #1      _Cache.call (package:riverpod_analyzer_utils/src/nodes.dart:69:27)
+[custom_lint client] 2025-08-29T06:38:05.484091 #2      RiverpodAnnotationElement._parse (package:riverpod_analyzer_utils/src/nodes/annotation.dart:104:18)
+[custom_lint client] 2025-08-29T06:38:05.484091 #3      RiverpodAnnotatedAnnotatedNodeX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:39:37)
+[custom_lint client] 2025-08-29T06:38:05.484091 #4      ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.484091 #5      RiverpodAnnotatedAnnotatedNodeX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:34:19)
+[custom_lint client] 2025-08-29T06:38:05.484091 #6      RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure>.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:36)
+[custom_lint client] 2025-08-29T06:38:05.484091 #7      MappedListIterable.elementAt (dart:_internal/iterable.dart:442:31)
+[custom_lint client] 2025-08-29T06:38:05.484091 #8      ListIterator.moveNext (dart:_internal/iterable.dart:371:26)
+[custom_lint client] 2025-08-29T06:38:05.484091 #9      NonNullsIterator.moveNext (dart:_internal/iterable.dart:943:20)
+[custom_lint client] 2025-08-29T06:38:05.484091 #10     IterableExtension.firstOrNull (package:collection/src/iterable_extensions.dart:275:18)
+[custom_lint client] 2025-08-29T06:38:05.484091 #11     RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:55)
+[custom_lint client] 2025-08-29T06:38:05.484091 #12     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.484091 #13     RiverpodAnnotatedAnnotatedNodeOfX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:7:19)
+[custom_lint client] 2025-08-29T06:38:05.484091 #14     FunctionalProviderDeclarationX.provider.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:12:29)
+[custom_lint client] 2025-08-29T06:38:05.484091 #15     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.484091 #16     FunctionalProviderDeclarationX.provider (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:8:19)
+[custom_lint client] 2025-08-29T06:38:05.484091 #17     RecursiveRiverpodAstVisitor.visitFunctionDeclaration (package:riverpod_analyzer_utils/src/nodes.g.dart:102:14)
+[custom_lint client] 2025-08-29T06:38:05.484091 #18     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8638:50)
+[custom_lint client] 2025-08-29T06:38:05.484091 #19     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[custom_lint client] 2025-08-29T06:38:05.484091 #20     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[custom_lint client] 2025-08-29T06:38:05.484091 #21     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:550:10)
+[custom_lint client] 2025-08-29T06:38:05.484091 #22     RecursiveRiverpodAstVisitor.visitNode (package:riverpod_analyzer_utils/src/nodes.g.dart:62:11)
+[custom_lint client] 2025-08-29T06:38:05.484091 #23     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:223:52)
+[custom_lint client] 2025-08-29T06:38:05.484091 #24     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[custom_lint client] 2025-08-29T06:38:05.484091 #25     RiverpodAstRegistry.run (package:riverpod_analyzer_utils/src/nodes.g.dart:742:12)
+[custom_lint client] 2025-08-29T06:38:05.484091 #26     _ParseRiverpod._setupRiverpod.<anonymous closure> (package:riverpod_lint/src/riverpod_custom_lint.dart:91:47)
+[custom_lint client] 2025-08-29T06:38:05.484091 #27     _rootRun (dart:async/zone.dart:1525:13)
+[custom_lint client] 2025-08-29T06:38:05.484091 #28     _CustomZone.run (dart:async/zone.dart:1422:19)
+[custom_lint client] 2025-08-29T06:38:05.484091 #29     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1345:23)
+[custom_lint client] 2025-08-29T06:38:05.484091 #30     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[custom_lint client] 2025-08-29T06:38:05.484091 #31     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:967:7)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #32     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:1094:14)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #33     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:931:5)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #34     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:9)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #35     ServerPlugin.handleAffectedFiles (package:analyzer_plugin/plugin/plugin.dart:212:5)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #36     ServerPlugin.contentChanged.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:142:9)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #37     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:508:9)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #38     ServerPlugin.contentChanged (package:analyzer_plugin/plugin/plugin.dart:137:7)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #39     ServerPlugin.handleAnalysisUpdateContent (package:analyzer_plugin/plugin/plugin.dart:351:5)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #40     ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:546:18)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091 #41     ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+[custom_lint client] 2025-08-29T06:38:05.484091 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.484091
+[custom_lint client] 2025-08-29T06:38:05.757762 Null check operator used on a null value
+[custom_lint client] 2025-08-29T06:38:05.757762 #0      RiverpodAnnotationElement._parse.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:133:43)
+[custom_lint client] 2025-08-29T06:38:05.757762 #1      _Cache.call (package:riverpod_analyzer_utils/src/nodes.dart:69:27)
+[custom_lint client] 2025-08-29T06:38:05.757762 #2      RiverpodAnnotationElement._parse (package:riverpod_analyzer_utils/src/nodes/annotation.dart:104:18)
+[custom_lint client] 2025-08-29T06:38:05.757762 #3      RiverpodAnnotatedAnnotatedNodeX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:39:37)
+[custom_lint client] 2025-08-29T06:38:05.757762 #4      ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.757762 #5      RiverpodAnnotatedAnnotatedNodeX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:34:19)
+[custom_lint client] 2025-08-29T06:38:05.757762 #6      RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure>.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:36)
+[custom_lint client] 2025-08-29T06:38:05.757762 #7      MappedListIterable.elementAt (dart:_internal/iterable.dart:442:31)
+[custom_lint client] 2025-08-29T06:38:05.757762 #8      ListIterator.moveNext (dart:_internal/iterable.dart:371:26)
+[custom_lint client] 2025-08-29T06:38:05.757762 #9      NonNullsIterator.moveNext (dart:_internal/iterable.dart:943:20)
+[custom_lint client] 2025-08-29T06:38:05.757762 #10     IterableExtension.firstOrNull (package:collection/src/iterable_extensions.dart:275:18)
+[custom_lint client] 2025-08-29T06:38:05.757762 #11     RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:55)
+[custom_lint client] 2025-08-29T06:38:05.757762 #12     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.757762 #13     RiverpodAnnotatedAnnotatedNodeOfX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:7:19)
+[custom_lint client] 2025-08-29T06:38:05.757762 #14     FunctionalProviderDeclarationX.provider.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:12:29)
+[custom_lint client] 2025-08-29T06:38:05.757762 #15     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.757762 #16     FunctionalProviderDeclarationX.provider (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:8:19)
+[custom_lint client] 2025-08-29T06:38:05.757762 #17     RecursiveRiverpodAstVisitor.visitFunctionDeclaration (package:riverpod_analyzer_utils/src/nodes.g.dart:102:14)
+[custom_lint client] 2025-08-29T06:38:05.757762 #18     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8638:50)
+[custom_lint client] 2025-08-29T06:38:05.757762 #19     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[custom_lint client] 2025-08-29T06:38:05.757762 #20     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[custom_lint client] 2025-08-29T06:38:05.757762 #21     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:550:10)
+[custom_lint client] 2025-08-29T06:38:05.757762 #22     RecursiveRiverpodAstVisitor.visitNode (package:riverpod_analyzer_utils/src/nodes.g.dart:62:11)
+[custom_lint client] 2025-08-29T06:38:05.757762 #23     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:223:52)
+[custom_lint client] 2025-08-29T06:38:05.757762 #24     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[custom_lint client] 2025-08-29T06:38:05.757762 #25     RiverpodAstRegistry.run (package:riverpod_analyzer_utils/src/nodes.g.dart:742:12)
+[custom_lint client] 2025-08-29T06:38:05.757762 #26     _ParseRiverpod._setupRiverpod.<anonymous closure> (package:riverpod_lint/src/riverpod_custom_lint.dart:91:47)
+[custom_lint client] 2025-08-29T06:38:05.757762 #27     _rootRun (dart:async/zone.dart:1525:13)
+[custom_lint client] 2025-08-29T06:38:05.757762 #28     _CustomZone.run (dart:async/zone.dart:1422:19)
+[custom_lint client] 2025-08-29T06:38:05.757762 #29     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1345:23)
+[custom_lint client] 2025-08-29T06:38:05.757762 #30     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[custom_lint client] 2025-08-29T06:38:05.757762 #31     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:967:7)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #32     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:1094:14)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #33     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:931:5)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #34     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:9)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #35     ServerPlugin.handleAffectedFiles (package:analyzer_plugin/plugin/plugin.dart:212:5)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #36     ServerPlugin.contentChanged.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:142:9)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #37     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:508:9)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #38     ServerPlugin.contentChanged (package:analyzer_plugin/plugin/plugin.dart:137:7)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #39     ServerPlugin.handleAnalysisUpdateContent (package:analyzer_plugin/plugin/plugin.dart:351:5)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #40     ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:546:18)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762 #41     ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+[custom_lint client] 2025-08-29T06:38:05.757762 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.757762
+[custom_lint client] 2025-08-29T06:38:05.983412 Null check operator used on a null value
+[custom_lint client] 2025-08-29T06:38:05.983412 #0      RiverpodAnnotationElement._parse.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:133:43)
+[custom_lint client] 2025-08-29T06:38:05.983412 #1      _Cache.call (package:riverpod_analyzer_utils/src/nodes.dart:69:27)
+[custom_lint client] 2025-08-29T06:38:05.983412 #2      RiverpodAnnotationElement._parse (package:riverpod_analyzer_utils/src/nodes/annotation.dart:104:18)
+[custom_lint client] 2025-08-29T06:38:05.983412 #3      RiverpodAnnotatedAnnotatedNodeX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:39:37)
+[custom_lint client] 2025-08-29T06:38:05.983412 #4      ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.983412 #5      RiverpodAnnotatedAnnotatedNodeX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:34:19)
+[custom_lint client] 2025-08-29T06:38:05.983412 #6      RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure>.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:36)
+[custom_lint client] 2025-08-29T06:38:05.983412 #7      MappedListIterable.elementAt (dart:_internal/iterable.dart:442:31)
+[custom_lint client] 2025-08-29T06:38:05.983412 #8      ListIterator.moveNext (dart:_internal/iterable.dart:371:26)
+[custom_lint client] 2025-08-29T06:38:05.983412 #9      NonNullsIterator.moveNext (dart:_internal/iterable.dart:943:20)
+[custom_lint client] 2025-08-29T06:38:05.983412 #10     IterableExtension.firstOrNull (package:collection/src/iterable_extensions.dart:275:18)
+[custom_lint client] 2025-08-29T06:38:05.983412 #11     RiverpodAnnotatedAnnotatedNodeOfX.riverpod.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/annotation.dart:8:55)
+[custom_lint client] 2025-08-29T06:38:05.983412 #12     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.983412 #13     RiverpodAnnotatedAnnotatedNodeOfX.riverpod (package:riverpod_analyzer_utils/src/nodes/annotation.dart:7:19)
+[custom_lint client] 2025-08-29T06:38:05.983412 #14     FunctionalProviderDeclarationX.provider.<anonymous closure> (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:12:29)
+[custom_lint client] 2025-08-29T06:38:05.983412 #15     ExpandoUtils.upsert (package:riverpod_analyzer_utils/src/analyzer_utils.dart:31:27)
+[custom_lint client] 2025-08-29T06:38:05.983412 #16     FunctionalProviderDeclarationX.provider (package:riverpod_analyzer_utils/src/nodes/providers/function.dart:8:19)
+[custom_lint client] 2025-08-29T06:38:05.983412 #17     RecursiveRiverpodAstVisitor.visitFunctionDeclaration (package:riverpod_analyzer_utils/src/nodes.g.dart:102:14)
+[custom_lint client] 2025-08-29T06:38:05.983412 #18     FunctionDeclarationImpl.accept (package:analyzer/src/dart/ast/ast.dart:8638:50)
+[custom_lint client] 2025-08-29T06:38:05.983412 #19     NodeListImpl.accept (package:analyzer/src/dart/ast/ast.dart:13245:20)
+[custom_lint client] 2025-08-29T06:38:05.983412 #20     CompilationUnitImpl.visitChildren (package:analyzer/src/dart/ast/ast.dart:3613:21)
+[custom_lint client] 2025-08-29T06:38:05.983412 #21     GeneralizingAstVisitor.visitNode (package:analyzer/dart/ast/visitor.dart:550:10)
+[custom_lint client] 2025-08-29T06:38:05.983412 #22     RecursiveRiverpodAstVisitor.visitNode (package:riverpod_analyzer_utils/src/nodes.g.dart:62:11)
+[custom_lint client] 2025-08-29T06:38:05.983412 #23     GeneralizingAstVisitor.visitCompilationUnit (package:analyzer/dart/ast/visitor.dart:223:52)
+[custom_lint client] 2025-08-29T06:38:05.983412 #24     CompilationUnitImpl.accept (package:analyzer/src/dart/ast/ast.dart:3606:50)
+[custom_lint client] 2025-08-29T06:38:05.983412 #25     RiverpodAstRegistry.run (package:riverpod_analyzer_utils/src/nodes.g.dart:742:12)
+[custom_lint client] 2025-08-29T06:38:05.983412 #26     _ParseRiverpod._setupRiverpod.<anonymous closure> (package:riverpod_lint/src/riverpod_custom_lint.dart:91:47)
+[custom_lint client] 2025-08-29T06:38:05.983412 #27     _rootRun (dart:async/zone.dart:1525:13)
+[custom_lint client] 2025-08-29T06:38:05.983412 #28     _CustomZone.run (dart:async/zone.dart:1422:19)
+[custom_lint client] 2025-08-29T06:38:05.983412 #29     _CustomZone.bindCallback.<anonymous closure> (dart:async/zone.dart:1345:23)
+[custom_lint client] 2025-08-29T06:38:05.983412 #30     runPostRunCallbacks (package:custom_lint_core/src/plugin_base.dart:16:19)
+[custom_lint client] 2025-08-29T06:38:05.983412 #31     _ClientAnalyzerPlugin.analyzeFile.<anonymous closure> (package:custom_lint_builder/src/client.dart:967:7)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #32     _ClientAnalyzerPlugin._runOperation (package:custom_lint_builder/src/client.dart:1094:14)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #33     _ClientAnalyzerPlugin.analyzeFile (package:custom_lint_builder/src/client.dart:931:5)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #34     ServerPlugin.analyzeFiles (package:analyzer_plugin/plugin/plugin.dart:111:9)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #35     ServerPlugin.handleAffectedFiles (package:analyzer_plugin/plugin/plugin.dart:212:5)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #36     ServerPlugin.contentChanged.<anonymous closure> (package:analyzer_plugin/plugin/plugin.dart:142:9)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #37     ServerPlugin._forAnalysisContexts (package:analyzer_plugin/plugin/plugin.dart:508:9)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #38     ServerPlugin.contentChanged (package:analyzer_plugin/plugin/plugin.dart:137:7)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #39     ServerPlugin.handleAnalysisUpdateContent (package:analyzer_plugin/plugin/plugin.dart:351:5)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #40     ServerPlugin._getResponse (package:analyzer_plugin/plugin/plugin.dart:546:18)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412 #41     ServerPlugin._onRequest (package:analyzer_plugin/plugin/plugin.dart:597:18)
+[custom_lint client] 2025-08-29T06:38:05.983412 <asynchronous suspension>
+[custom_lint client] 2025-08-29T06:38:05.983412

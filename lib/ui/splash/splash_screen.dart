@@ -1,4 +1,5 @@
 import 'package:cinebox/config/env.dart';
+import 'package:cinebox/ui/core/themes/resource.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -12,10 +13,15 @@ class SplashScreen extends ConsumerStatefulWidget {
 class _SplashScreenState extends ConsumerState<SplashScreen> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       body: Center(
-        child: Text(
-          Env.backApiUrl,
+        child: Column(
+          children: [
+            const Text(
+              Env.backApiUrl,
+            ),
+            Image.asset(R.ASSETS_IMAGES_LOGO_PNG),
+          ],
         ),
       ),
     );

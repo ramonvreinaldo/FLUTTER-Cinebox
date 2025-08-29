@@ -12,6 +12,10 @@ include: package:flutter_lints/flutter.yaml
 analyzer:
   plugins:
     - custom_lint
+  errors:
+    body_might_complete_normally_nullable: ignore
+  exclude:
+    - "**/*.g.dart"
 
 formatter:
   trailing_commas: preserve
