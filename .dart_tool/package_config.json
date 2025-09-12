@@ -326,6 +326,42 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "google_identity_services_web",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_identity_services_web-0.3.3+1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "google_sign_in",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_sign_in-7.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "google_sign_in_android",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_sign_in_android-7.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "google_sign_in_ios",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_sign_in_ios-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "google_sign_in_platform_interface",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_sign_in_platform_interface-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
+      "name": "google_sign_in_web",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/google_sign_in_web-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
       "name": "graphs",
       "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/graphs-2.3.2",
       "packageUri": "lib/",
@@ -336,6 +372,12 @@
       "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/hotreloader-4.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/ramonvreinaldo/.pub-cache/hosted/pub.dev/http-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "http_multi_server",
