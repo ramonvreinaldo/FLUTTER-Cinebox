@@ -1,4 +1,4 @@
-import 'package:cinebox/ui/core/themes/text_styles.dart';
+import 'package:cinebox/ui/core/themes/app_text_styles.dart';
 import 'package:flutter/material.dart';
 
 abstract final class AppTheme {

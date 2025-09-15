@@ -1,5 +1,5 @@
-import 'package:cinebox/ui/core/themes/colors.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:cinebox/ui/core/themes/app_colors.dart';
+import 'package:flutter/material.dart';
 
 abstract final class AppTextStyles {
   static const titleLarge = TextStyle(
