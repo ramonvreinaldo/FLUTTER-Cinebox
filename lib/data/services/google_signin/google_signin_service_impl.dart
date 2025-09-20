@@ -1,4 +1,4 @@
-import 'dart:nativewrappers/_internal/vm/lib/developer.dart';
+import 'dart:developer';
 
 import 'package:cinebox/core/result/result.dart';
 import 'package:google_sign_in/google_sign_in.dart';
